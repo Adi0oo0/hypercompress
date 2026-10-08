@@ -140,4 +140,4 @@ curl -X POST http://localhost:8765/api/v1/compress \
 ## Links
 
 - Repository: https://github.com/ashy092000-cell/hypercompress
-- Package: https://pypi.org/project/hypercompress/
+- Package: https://pypi.org/project/hypercompress-py/
